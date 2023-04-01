@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recource/ShipsGameScene1.png</file>
+        <file>recource/WarShipTexture.png</file>
+        <file>recource/CargoShipTexture.png</file>
+        <file>recource/PassengerShipTexture.png</file>
+        <file>recource/LogoPicture.png</file>
+    </qresource>
+</RCC>
